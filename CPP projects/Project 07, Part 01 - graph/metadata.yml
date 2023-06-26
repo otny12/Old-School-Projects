@@ -1,0 +1,12 @@
+---
+:id: 36469903
+:submitters:
+- :name: Tony Lau
+  :email: tlau7@uic.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-30 04:02:24.474416000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-29 21:02:24.474416000 Z
+:status: processed
+:score: 60.0

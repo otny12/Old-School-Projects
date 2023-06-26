@@ -1,0 +1,16 @@
+stations.csv
+trips.csv
+456
+2112 W Peterson
+Tr10412856
+Tr11
+Tr
+B55
+B1658
+B123
+nearby 41.86 -87.62 0.5
+nearby 41.86 -87.62 0.1
+nearby 41.8810 -87.6240 0.25
+similar tr123 0.5
+similar Tr10424021 0.4
+#
